@@ -42,9 +42,6 @@ class ViewController: UIViewController {
         else {
             displayLabel.textColor = UIColor.redColor()
         }
-
-
-        
     }
 
     func updateCounter() {
